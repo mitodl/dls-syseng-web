@@ -1,0 +1,86 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mit.edu/professional/digital-programs/online-course/syseng" resolutions="1x,2x" timestamp="1471290168664">
+  <folder name="css">
+    <file name="site_global.css" crc="4119742617"/>
+    <file name="master_boeing-home-menu.css" crc="164258137" ref="index"/>
+    <file name="master_boeing-home-menu-sub.css" crc="4173876181" ref="architecture-of-complex-systems-course--mit-professional-education:model-based-systems-engineering-course--mit-professional-education:models-in-engineering-course--mit-professional-education:quantitative-methods-in-systems-engineering-course--mit-professional-education"/>
+    <file name="architecture-of-complex-systems-course--mit-professional-education.css" crc="3797026796" ref="architecture-of-complex-systems-course--mit-professional-education"/>
+    <file name="model-based-systems-engineering-course--mit-professional-education.css" crc="320590165" ref="model-based-systems-engineering-course--mit-professional-education"/>
+    <file name="index.css" crc="139782015" ref="index"/>
+    <file name="models-in-engineering-course--mit-professional-education.css" crc="338345660" ref="models-in-engineering-course--mit-professional-education"/>
+    <file name="quantitative-methods-in-systems-engineering-course--mit-professional-education.css" crc="468040505" ref="quantitative-methods-in-systems-engineering-course--mit-professional-education"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:architecture-of-complex-systems-course--mit-professional-education:models-in-engineering-course--mit-professional-education:model-based-systems-engineering-course--mit-professional-education:quantitative-methods-in-systems-engineering-course--mit-professional-education"/>
+    <file name="museutils.js" crc="3851988764" ref="index:architecture-of-complex-systems-course--mit-professional-education:models-in-engineering-course--mit-professional-education:model-based-systems-engineering-course--mit-professional-education:quantitative-methods-in-systems-engineering-course--mit-professional-education"/>
+    <file name="whatinput.js" crc="86476730" ref="index:architecture-of-complex-systems-course--mit-professional-education:models-in-engineering-course--mit-professional-education:model-based-systems-engineering-course--mit-professional-education:quantitative-methods-in-systems-engineering-course--mit-professional-education"/>
+    <file name="museconfig.js" crc="169177150" ref="index:architecture-of-complex-systems-course--mit-professional-education:models-in-engineering-course--mit-professional-education:model-based-systems-engineering-course--mit-professional-education:quantitative-methods-in-systems-engineering-course--mit-professional-education"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index:architecture-of-complex-systems-course--mit-professional-education"/>
+    <file name="pie.js" crc="3831537696" ref="index:architecture-of-complex-systems-course--mit-professional-education:models-in-engineering-course--mit-professional-education:model-based-systems-engineering-course--mit-professional-education:quantitative-methods-in-systems-engineering-course--mit-professional-education"/>
+    <file name="webpro.js" crc="4067903014" ref="index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index"/>
+    <file name="touchswipe.js" crc="474750357" ref="index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:architecture-of-complex-systems-course--mit-professional-education:models-in-engineering-course--mit-professional-education:model-based-systems-engineering-course--mit-professional-education:quantitative-methods-in-systems-engineering-course--mit-professional-education"/>
+    <file name="jquery.scrolleffects.js" crc="511146689" ref="index"/>
+    <file name="require.js" crc="4108833657" ref="index:architecture-of-complex-systems-course--mit-professional-education:models-in-engineering-course--mit-professional-education:model-based-systems-engineering-course--mit-professional-education:quantitative-methods-in-systems-engineering-course--mit-professional-education"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3985349164" ref="index:architecture-of-complex-systems-course--mit-professional-education"/>
+    <file name="relatedofferings3.png" crc="3938324349" ref="index"/>
+    <file name="banner_bg.png" crc="3965997186" ref="index"/>
+    <file name="banner_bg_overlay.png" crc="414823423" seo="true" ref="index"/>
+    <file name="nav_widescreen.png" crc="55832176" seo="true" ref="index:architecture-of-complex-systems-course--mit-professional-education:models-in-engineering-course--mit-professional-education:model-based-systems-engineering-course--mit-professional-education:quantitative-methods-in-systems-engineering-course--mit-professional-education"/>
+    <file name="profedudiv-office-red_left.png" crc="236871576" ref="index:architecture-of-complex-systems-course--mit-professional-education"/>
+    <file name="profedudiv-office-red_left_2x.png" crc="383853412" ref="index:architecture-of-complex-systems-course--mit-professional-education"/>
+    <file name="profedudiv-office-graylightgray_left-u77140-r-fr.png" crc="3970033666" ref="index"/>
+    <file name="profedudiv-office-graylightgray_left-u77140-r-fr_2x.png" crc="336279887" ref="index"/>
+    <file name="profedudiv-office-red_right-u77153-fr.png" crc="3819517235" ref="index"/>
+    <file name="profedudiv-office-red_right-u77153-fr_2x.png" crc="4082653047" ref="index"/>
+    <file name="profedudiv-office-graylightgray_right-u77153-r-fr.png" crc="3976666176" ref="index"/>
+    <file name="profedudiv-office-graylightgray_right-u77153-r-fr_2x.png" crc="201916381" ref="index"/>
+    <file name="home.png" crc="46953124" ref="index:architecture-of-complex-systems-course--mit-professional-education"/>
+    <file name="home_active.png" crc="4293385850" ref="index:architecture-of-complex-systems-course--mit-professional-education"/>
+    <file name="course1.png" crc="31723853" ref="index:architecture-of-complex-systems-course--mit-professional-education"/>
+    <file name="course1_active.png" crc="396293112" ref="index:architecture-of-complex-systems-course--mit-professional-education"/>
+    <file name="course2.png" crc="3890201751" ref="index:architecture-of-complex-systems-course--mit-professional-education"/>
+    <file name="course2_active.png" crc="4251467096" ref="index:architecture-of-complex-systems-course--mit-professional-education"/>
+    <file name="course3.png" crc="329433872" ref="index:architecture-of-complex-systems-course--mit-professional-education"/>
+    <file name="course3_active.png" crc="4190221535" ref="index:architecture-of-complex-systems-course--mit-professional-education"/>
+    <file name="course4.png" crc="51087380" ref="index:architecture-of-complex-systems-course--mit-professional-education"/>
+    <file name="course4_active.png" crc="380661450" ref="index:architecture-of-complex-systems-course--mit-professional-education"/>
+    <file name="middlesection2.jpg" crc="4177190833" seo="true" ref="index:architecture-of-complex-systems-course--mit-professional-education:models-in-engineering-course--mit-professional-education:model-based-systems-engineering-course--mit-professional-education:quantitative-methods-in-systems-engineering-course--mit-professional-education"/>
+    <file name="boeing-logo.svg" crc="4010578690" seo="true" ref="index"/>
+    <file name="boeing-logo_poster_.png" crc="65009186" ref="index"/>
+    <file name="mit dome 1_bw-u76131-fr.png" crc="36116218" ref="index"/>
+    <file name="instructor.jpg" crc="252772296" seo="true" ref="index"/>
+    <file name="nav.jpg" crc="283248527" seo="true" ref="index"/>
+    <file name="brucecameron.png" crc="283149287" seo="true" ref="index"/>
+    <file name="olivierdeweck.png" crc="4241429706" seo="true" ref="index"/>
+    <file name="warrenhoburg.png" crc="3793291805" seo="true" ref="index"/>
+    <file name="donnarhodes.png" crc="162255883" seo="true" ref="index"/>
+    <file name="adamross.png" crc="406212861" seo="true" ref="index"/>
+    <file name="edcrawley.png" crc="203174217" seo="true" ref="index"/>
+    <file name="mitpedigitalprograms_identity_horizontal_white_matt-edit.png" crc="334953894" seo="true" ref="index:architecture-of-complex-systems-course--mit-professional-education:models-in-engineering-course--mit-professional-education:model-based-systems-engineering-course--mit-professional-education:quantitative-methods-in-systems-engineering-course--mit-professional-education"/>
+    <file name="mitpedigitalprograms_identity_horizontal_white_matt-edit_2x.png" crc="3885949104" seo="true" ref="index:architecture-of-complex-systems-course--mit-professional-education:models-in-engineering-course--mit-professional-education:model-based-systems-engineering-course--mit-professional-education:quantitative-methods-in-systems-engineering-course--mit-professional-education"/>
+    <file name="facebook.png" crc="4103673493" seo="true" ref="index:architecture-of-complex-systems-course--mit-professional-education:models-in-engineering-course--mit-professional-education:model-based-systems-engineering-course--mit-professional-education:quantitative-methods-in-systems-engineering-course--mit-professional-education"/>
+    <file name="twitter.png" crc="304411151" seo="true" ref="index:architecture-of-complex-systems-course--mit-professional-education:models-in-engineering-course--mit-professional-education:model-based-systems-engineering-course--mit-professional-education:quantitative-methods-in-systems-engineering-course--mit-professional-education"/>
+    <file name="linked_in.png" crc="3852628005" seo="true" ref="index:architecture-of-complex-systems-course--mit-professional-education:models-in-engineering-course--mit-professional-education:model-based-systems-engineering-course--mit-professional-education:quantitative-methods-in-systems-engineering-course--mit-professional-education"/>
+    <file name="course1_banner_v2.jpg" crc="4008613876" seo="true" ref="architecture-of-complex-systems-course--mit-professional-education"/>
+    <file name="course2_banner_v2.jpg" crc="4179924391" seo="true" ref="models-in-engineering-course--mit-professional-education"/>
+    <file name="course3_banner_v2.jpg" crc="3883827738" seo="true" ref="model-based-systems-engineering-course--mit-professional-education"/>
+    <file name="course4_banner_v2.jpg" crc="3927427327" seo="true" ref="quantitative-methods-in-systems-engineering-course--mit-professional-education"/>
+    <file name="profedudiv-office-graylightgray_left-u77917-r-fr.png" crc="3970033666" ref="architecture-of-complex-systems-course--mit-professional-education"/>
+    <file name="profedudiv-office-graylightgray_left-u77917-r-fr_2x.png" crc="336279887" ref="architecture-of-complex-systems-course--mit-professional-education"/>
+    <file name="profedudiv-office-red_right-u77918-fr.png" crc="3819517235" ref="architecture-of-complex-systems-course--mit-professional-education"/>
+    <file name="profedudiv-office-red_right-u77918-fr_2x.png" crc="4082653047" ref="architecture-of-complex-systems-course--mit-professional-education"/>
+    <file name="profedudiv-office-graylightgray_right-u77918-r-fr.png" crc="3976666176" ref="architecture-of-complex-systems-course--mit-professional-education"/>
+    <file name="profedudiv-office-graylightgray_right-u77918-r-fr_2x.png" crc="201916381" ref="architecture-of-complex-systems-course--mit-professional-education"/>
+    <file name="eppinger.png" crc="4083198849" seo="true" ref="index"/>
+    <file name="table_anova_lova.png" crc="152364268" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3944734665" seo="true" mt="1470926303783" redirect="true"/>
+  <file name="architecture-of-complex-systems-course--mit-professional-education.html" crc="150264180" seo="true" mt="1470932049303" redirect="true"/>
+  <file name="models-in-engineering-course--mit-professional-education.html" crc="175756937" seo="true" mt="1471290126853" redirect="true"/>
+  <file name="model-based-systems-engineering-course--mit-professional-education.html" crc="191849268" seo="true" mt="1471290141989" redirect="true"/>
+  <file name="quantitative-methods-in-systems-engineering-course--mit-professional-education.html" crc="4158962850" seo="true" mt="1471290153999" redirect="true"/>
+</manifest>
